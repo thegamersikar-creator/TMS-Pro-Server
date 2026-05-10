@@ -8,7 +8,7 @@ app = Flask(__name__)
 # MASTER CONFIGURATION (APNE TOKENS YAHAN DALEIN)
 # ==========================================
 NVR_IP = "192.168.1.17"
-AUTH_HEADER = "Basic YWRtaW46YWRtaW5AMTIz" # admin:admin@123
+AUTH_HEADER = "Basic YWRtaW46U2tyaXNoQDEyMw==" # admin:admin@123
 
 TELEGRAM_BOT_TOKEN = "8725841586:AAFmiTmYoF-8MF_0TiFB0RFCd5YjFfB22CY"
 TELEGRAM_CHAT_ID = "1372860931"
